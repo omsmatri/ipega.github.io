@@ -1,6 +1,7 @@
 
   { 
-  "results": [
+  "server":"ipega.github.io/comptia/N10-006",
+  "file": [
     { "id": "1", "Question": "whats there?", "type":"check",
       "options": [
         { "id": "1", "Option": "Nothing", "Correct":"false"},
