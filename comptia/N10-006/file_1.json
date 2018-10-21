@@ -4,7 +4,7 @@
   "file": [
     { "id": "1", "Question": "whats there?", "answerType":"check", "questionImage":"null.png",
       "options": [
-        { "id": "1", "Answer": "Nothing", "correctAnswer":"false", },
+        { "id": "1", "Answer": "Nothing", "correctAnswer":"false"},
         { "id": "2", "Answer": "Anything", "correctAnswer":"true"},
         { "id": "3", "Answer": "Something", "correctAnswer":"false"},
         { "id": "4", "Answer": "Everything", "correctAnswer":"true"}
