@@ -10,7 +10,7 @@
         { "id": "4", "Answer": "Everything", "correctAnswer":"true"}
       ]
     },
-    { "id": "2", "Question": "whats there?", "answerType":"radio", "questionImage":"null.png",
+    { "id": "2", "questionName": "whats there?", "answerType":"radio", "questionImage":"null.png",
       "options": [
         { "id": "1", "Answer": "Nothing", "correctAnswer":"false"},
         { "id": "2", "Answer": "Anything", "correctAnswer":"true"},
