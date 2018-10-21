@@ -1,7 +1,7 @@
 {
   "results": [
     { "topicName": "N10-006","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2016","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/N10-006/index.json"},
-    { "topicName": "N10-007","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2018","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/N10-007/index.json"}
+    { "topicName": "N10-007","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2018","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/N10-007/index.json"},
     { "topicName": "PK0-004","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2017","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/PK0-004/index.json"}
   ]
 }
