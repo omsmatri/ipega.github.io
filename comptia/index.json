@@ -1,1 +1,7 @@
-{"results":[{"topicID":"18","topicImage":"csa.png","topicName":"Pega Certifications","topicType":"groupedCert","topicDescription":"Pega Certifications & Tutorial","totalQuestions":"0","topicStatus":"active","topicCategory":"Pega7"},{"topicID":"20","topicImage":"salesforce.png","topicName":"SalesForce Certifications","topicType":"groupedCert","topicDescription":"SalesForce Certifications & Tutorial","totalQuestions":"0","topicStatus":"active","topicCategory":"SalesForce"},{"topicID":"21","topicImage":"android.png","topicName":"Android Certifications","topicType":"groupedCert","topicDescription":"Android Certifications & Tutorial","totalQuestions":"0","topicStatus":"active","topicCategory":"Android"}]}
+{
+  "results": [
+    { "topicName": "N10-006","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2016","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/N10-006/index.json"},
+    { "topicName": "N10-007","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2018","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/N10-007/index.json"}
+    { "topicName": "PK0-004","topicImage":"null.png","topicType":"onlyqna","topicDescription":"CompTIA Network+ 2017","totalQuestions":"0","topicStatus":"active", "url": "https://ipega.github.io/comptia/PK0-004/index.json"}
+  ]
+}
