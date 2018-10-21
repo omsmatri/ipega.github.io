@@ -2,15 +2,15 @@
   { 
   "server":"ipega.github.io/comptia/N10-006",
   "file": [
-    { "id": "1", "Question": "whats there?", "type":"check",
+    { "id": "1", "Question": "whats there?", "answerType":"check", "questionImage":"null.png",
       "options": [
-        { "id": "1", "Option": "Nothing", "Correct":"false"},
+        { "id": "1", "Option": "Nothing", "Correct":"false", },
         { "id": "2", "Option": "Anything", "Correct":"true"},
         { "id": "3", "Option": "Something", "Correct":"false"},
         { "id": "4", "Option": "Everything", "Correct":"true"}
       ]
     },
-    { "id": "2", "Question": "whats there?", "type":"check",
+    { "id": "2", "Question": "whats there?", "answerType":"radio", "questionImage":"null.png",
       "options": [
         { "id": "1", "Option": "Nothing", "Correct":"false"},
         { "id": "2", "Option": "Anything", "Correct":"true"},
