@@ -1,0 +1,7 @@
+{ "server":"https://ipega.github.io/comptia/N10-006",
+  "url": [
+    { "title": "file_1.json"},
+    { "title": "file_2.json"},
+    { "title": "file_3.json"}
+  ]
+}
