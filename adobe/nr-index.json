@@ -1,0 +1,14 @@
+{
+  "results": [
+    { "topicName": "9A0-164","topicDescription":"Adobe Captivate 5.5 ACE Exam","totalQuestions":"96","topicStatus":"active"},
+    { "topicName": "9A0-381","topicDescription":"Adobe Analytics Business Practitioner","totalQuestions":"45","topicStatus":"active"},
+	{ "topicName": "9A0-384","topicDescription":"Adobe Experience Manager 6 Developer","totalQuestions":"28","topicStatus":"active"},
+	{ "topicName": "9A0-385","topicDescription":"Adobe Experience Manager 6.0 Architect Exam","totalQuestions":"24","topicStatus":"active"},
+	{ "topicName": "9A0-388","topicDescription":"Adobe Experience Manager 6 Business Practitioner","totalQuestions":"24","topicStatus":"active"},
+	{ "topicName": "9A0-389","topicDescription":"Adobe Campaign Developer","totalQuestions":"20","topicStatus":"active"},
+	{ "topicName": "9A0-397","topicDescription":"Adobe Experience Manager DevOps Engineer","totalQuestions":"27","topicStatus":"active"},
+	{ "topicName": "9A0-409","topicDescription":"Adobe Premiere Pro CC 2015 ACE","totalQuestions":"39","topicStatus":"active"},
+	{ "topicName": "9A0-410","topicDescription":"Adobe Experience Manager Forms Developer ACE","totalQuestions":"42","topicStatus":"active"},
+	{ "topicName": "9A0-412","topicDescription":"Adobe Analytics Business Practitioner","totalQuestions":"36","topicStatus":"active"}
+  ]
+}

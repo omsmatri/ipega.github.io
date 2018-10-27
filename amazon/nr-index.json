@@ -1,0 +1,8 @@
+{
+  "results": [
+    { "topicName": "AWS-CERTIFIED-BIG-DATA-SPECIALTY","topicDescription":"AWS Certified Big Data - Specialty","totalQuestions":"33","topicStatus":"active"},
+    { "topicName": "AWS-CERTIFIED-DEVELOPER-ASSOCIATE","topicDescription":"AWS Certified Developer Associate","totalQuestions":"31","topicStatus":"active"},
+	{ "topicName": "AWS-SOLUTION-ARCHITECT-ASSOCIATE","topicDescription":"AWS Solution Architect Associate","totalQuestions":"32","topicStatus":"active"},
+	{ "topicName": "AWS-SYSOPS","topicDescription":"AWS Certified SysOps Administrator - Associate","totalQuestions":"230","topicStatus":"notactive"}
+  ]
+}

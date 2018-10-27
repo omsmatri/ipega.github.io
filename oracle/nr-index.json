@@ -1,0 +1,6 @@
+{
+  "results": [
+    { "topicName": "CTFA","topicImage":"null.png","topicType":"onlyqna","topicDescription":"Certified Trust and Financial Advisor","totalQuestions":"400","topicStatus":"active", "topicCategory": "aba"},
+    { "topicName": "CRCM","topicImage":"null.png","topicType":"onlyqna","topicDescription":"Certified Regulatory Compliance Manager","totalQuestions":"253","topicStatus":"active", "topicCategory": "crcm"}
+  ]
+}
