@@ -1,9 +1,0 @@
-{
-  "results": [
-    { "topicName": "9L0-066","topicDescription":"OS X Yosemite Troubleshooting","totalQuestions":"38","topicStatus":"active"},
-    { "topicName": "9L0-420","topicDescription":"MIB v10.10","totalQuestions":"27","topicStatus":"active"},
-	{ "topicName": "9L0-422","topicDescription":"OS X Support Essentials 10.10","totalQuestions":"49","topicStatus":"active"},
-	{ "topicName": "MAC-16A","topicDescription":"MAC-16A - ACMT 2016 MAC Service Certification","totalQuestions":"25","topicStatus":"notactive"},
-	{ "topicName": "SVC-16A","topicDescription":"Apple Service Fundamentals","totalQuestions":"34","topicStatus":"notactive"}
-  ]
-}
