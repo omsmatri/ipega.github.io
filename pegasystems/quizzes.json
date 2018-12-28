@@ -1,0 +1,34 @@
+{
+  "quizzes": [
+    {
+      "title": "Certified System Architect",
+      "content": [
+        {
+          "tag_line": "PEGACSA72"
+        },
+        {
+          "tag_line": "PEGACSA73"
+        },
+        {
+          "tag_line": "PEGACSA74"
+        }
+      ]
+    },
+    {
+      "title": "Certified Senior System Architect",
+      "content": [
+        {
+          "tag_line": "PEGACSSA72"
+        }
+      ]
+    },
+    {
+      "title": "Certified Lead System Architect",
+      "content": [
+        {
+          "tag_line": "PEGACLSA72"
+        }
+      ]
+    }
+  ]
+}
