@@ -1,14 +1,32 @@
 {
-  "questionnaires": [
+  "file": [
     {
-      "question": "Coming Soon. Want to make it fast?",
-      "answers": [
-        "a) Please send a mail to ipega.learning@gmail.com",
-        "b) Wait and Watch",
-        "c) Study in Pega Academy",
-        "d) Study in PDN"
-      ],
-      "correct_answer": 1
+      "id": "1",
+      "questionName": "Which requirement would be implemented through circumstancing?",
+      "questionImage": "null.png",
+      "answerType": "radio",
+      "options": [
+        {
+          "id": "2983",
+          "Answer": "An application sends a notification to a manager if a purchase request requires approval. Otherwise, the application sens a notification to the employee that the request was approved",
+          "correctAnswer": "false"
+        },
+        {
+          "id": "2984",
+          "Answer": "An application sends an email to a customer to confirm opening an account. For customers in certain states or provinces, the email includes a mandatory disclosure.",
+          "correctAnswer": "true"
+        },
+        {
+          "id": "2985",
+          "Answer": "An application sends a text if a customer provides a mobile phone number, otherwise, the application sends an email",
+          "correctAnswer": "false"
+        },
+        {
+          "id": "2986",
+          "Answer": "An application computes a shipping charge for orders. If the order exceeds USD100, the customer receives a credit of 50% of the shipping charge",
+          "correctAnswer": "true"
+        }
+      ]
     }
-  ]
+	]
 }
