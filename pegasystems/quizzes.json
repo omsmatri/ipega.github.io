@@ -1,26 +1,66 @@
 {
   "quizzes": [
     {
-      "title": "PEGACSA72",
+      "title": "CSA74",
       "content": [
         {
-          "tag_line": "Certified System Architect 72"
+          "tag_line": "Certified System Architect"
         }
       ]
     },
     {
-      "title": "PEGACSA73",
+      "title": "CSA8",
       "content": [
         {
-          "tag_line": "Certified System Architect 73"
+          "tag_line": "Certified System Architect"
         }
       ]
     },
     {
-      "title": "PEGACSA74",
+      "title": "CSSA74",
       "content": [
         {
-          "tag_line": "Certified System Architect 74"
+          "tag_line": "Certified Senior System Architect"
+        }
+      ]
+    },
+    {
+      "title": "CLSA8",
+      "content": [
+        {
+          "tag_line": "Certified Lead System Architect"
+        }
+      ]
+    },
+    {
+      "title": "PCDS8",
+      "content": [
+        {
+          "tag_line": "Certified Data Scientist Architect"
+        }
+      ]
+    },
+    {
+      "title": "CPMC74",
+      "content": [
+        {
+          "tag_line": "Certified Pega Marketing Consultant"
+        }
+      ]
+    },
+    {
+      "title": "CUIS71",
+      "content": [
+        {
+          "tag_line": "Certified UI Specialist"
+        }
+      ]
+    },
+    {
+      "title": "CRSA8",
+      "content": [
+        {
+          "tag_line": "Certified Robotics System Architect"
         }
       ]
     }
