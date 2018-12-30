@@ -1,0 +1,14 @@
+{
+  "questionnaires": [
+    {
+      "question": "Coming Soon. Want to make it fast?",
+      "answers": [
+        "a) Please send a mail to ipega.learning@gmail.com",
+        "b) Wait and Watch",
+        "c) Study in Pega Academy",
+        "d) Study in PDN"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}
