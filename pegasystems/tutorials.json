@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Case Management",
+      "title": "System Architect",
       "content": [
         {
-          "tag_line": "Definitions"
+          "tag_line": "Case Management"
         },
         {
           "tag_line": "Stage Based Case Design"
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "title": "Data Model",
+      "title": "Senior System Architect",
       "content": [
         {
           "tag_line": "Definition"
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "title": "User Experience",
+      "title": "Lead System Architect",
       "content": [
         {
           "tag_line": "Definition"
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "title": "Integration",
+      "title": "Robotics System Architect",
       "content": [
         {
           "tag_line": "Definition"
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "title": "Debugging",
+      "title": "UI Specialist",
       "content": [
         {
           "tag_line": "Definition"
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "title": "Performance",
+      "title": "Decisioning Consultant",
       "content": [
         {
           "tag_line": "Definition"
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "title": "Everything Else",
+      "title": "Marketing Consultant",
       "content": [
         {
           "tag_line": "Complex Sentence"
@@ -191,7 +191,7 @@
       "title": "Message from Developer",
       "content": [
         {
-          "tag_line": "Message Text"
+          "tag_line": "Hi, I am a Pega CLSA and adding the details here from my knowledge I have acquired from study and work experience."
         }
       ]
     }
