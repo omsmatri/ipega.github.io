@@ -1,0 +1,312 @@
+{
+  "quizzes": [
+    {
+      "title": "CSA74",
+      "content": [
+        {
+          "tag_line": "Certified System Architect"
+        }
+      ]
+    },
+    {
+      "title": "CSA8",
+      "content": [
+        {
+          "tag_line": "Certified System Architect"
+        }
+      ]
+    },
+    {
+      "title": "CSSA74",
+      "content": [
+        {
+          "tag_line": "Certified Senior System Architect"
+        }
+      ]
+    },
+    {
+      "title": "CLSA8",
+      "content": [
+        {
+          "tag_line": "Certified Lead System Architect"
+        }
+      ]
+    },
+    {
+      "title": "PCDS8",
+      "content": [
+        {
+          "tag_line": "Certified Data Scientist Architect"
+        }
+      ]
+    },
+    {
+      "title": "CPMC74",
+      "content": [
+        {
+          "tag_line": "Certified Pega Marketing Consultant"
+        }
+      ]
+    },
+    {
+      "title": "CUIS71",
+      "content": [
+        {
+          "tag_line": "Certified UI Specialist"
+        }
+      ]
+    },
+    {
+      "title": "CRSA8",
+      "content": [
+        {
+          "tag_line": "Certified Robotics System Architect"
+        }
+      ]
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "System Architect-PEGA7.4",
+      "content": [
+        {
+          "tag_line": "Pega Platform"
+        },
+        {
+          "tag_line": "Case Lifecycle"
+        },
+        {
+          "tag_line": "Case Data Modeling"
+        },
+        {
+          "tag_line": "Business Policy Automation"
+        },
+        {
+          "tag_line": "User Views"
+        },
+        {
+          "tag_line": "Reports"
+        },
+        {
+          "tag_line": "Testing"
+        }
+      ]
+    },
+    {
+      "title": "Data Scientist Architect-PEGA8",
+      "content": [
+        {
+          "tag_line": "Next-Best-Action"
+        },
+        {
+          "tag_line": "Predictive Analytics"
+        },
+        {
+          "tag_line": "Decision Simulations"
+        },
+        {
+          "tag_line": "Decision Strategy"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Consultant (PEGA7.4)",
+      "content": [
+        {
+          "tag_line": "Next-Best-Action"
+        },
+        {
+          "tag_line": "Outbound Campaign"
+        },
+        {
+          "tag_line": "Simulations"
+        },
+        {
+          "tag_line": "Decision Strategy"
+        },
+        {
+          "tag_line": "Multi-Channel Campaign"
+        }
+      ]
+    },
+    {
+      "title": "Lead System Architect Readiness-PEGA7.4",
+      "content": [
+        {
+          "tag_line": "Application Design"
+        },
+        {
+          "tag_line": "Case Configuration"
+        },
+        {
+          "tag_line": "Data Model Configuration"
+        },
+        {
+          "tag_line": "User Experience Configuration"
+        },
+        {
+          "tag_line": "Security Model Configuration"
+        },
+        {
+          "tag_line": "Report Configuration"
+        },
+        {
+          "tag_line": "Mobile Application Configuration"
+        },
+        {
+          "tag_line": "Integration"
+        },
+        {
+          "tag_line": "Background Processing"
+        },
+        {
+          "tag_line": "Performance"
+        }
+      ]
+    },
+    {
+      "title": "Robotics System Architect-PEGA8",
+      "content": [
+        {
+          "tag_line": "System Integration"
+        },
+        {
+          "tag_line": "Project Management"
+        },
+        {
+          "tag_line": "Deployment"
+        },
+        {
+          "tag_line": "Diagnostics"
+        },
+        {
+          "tag_line": "Solution and Automation Design"
+        }
+      ]
+    },
+    {
+      "title": "UI Specialist-PEGA7.1",
+      "content": [
+        {
+          "tag_line": "UI Basics and Building Blocks"
+        },
+        {
+          "tag_line": "Designing Forms"
+        },
+        {
+          "tag_line": "Creating Dynamic UI"
+        },
+        {
+          "tag_line": "Presentation"
+        },
+        {
+          "tag_line": "Validating User inputs"
+        },
+        {
+          "tag_line": "Designing Screens"
+        },
+        {
+          "tag_line": "Navigation"
+        },
+        {
+          "tag_line": "Mobility"
+        },
+        {
+          "tag_line": "Localization and Accessibility"
+        },
+        {
+          "tag_line": "Extending the UI"
+        },
+        {
+          "tag_line": "UX Methodology"
+        }
+      ]
+    },
+    {
+      "title": "Decisioning Consultant-PEGA7.4",
+      "content": [
+        {
+          "tag_line": "Next-Best-Action"
+        },
+        {
+          "tag_line": "Decision Strategy"
+        },
+        {
+          "tag_line": "Decision Simulations"
+        },
+        {
+          "tag_line": "Predictive Analytics"
+        }
+      ]
+    },
+    {
+      "title": "Senior System Architect-PEGA7.4",
+      "content": [
+        {
+          "tag_line": "Application Administration"
+        },
+        {
+          "tag_line": "Application Debugging"
+        },
+        {
+          "tag_line": "Application Design"
+        },
+        {
+          "tag_line": "Case Design (Includes Process Design)"
+        },
+        {
+          "tag_line": "Data Management"
+        },
+        {
+          "tag_line": "Data Model Design"
+        },
+        {
+          "tag_line": "Decision Design"
+        },
+        {
+          "tag_line": "Report Design"
+        },
+        {
+          "tag_line": "UI Design"
+        }
+      ]
+    },
+    {
+      "title": "System Architect-CSA8",
+      "content": [
+        {
+          "tag_line": "Pega Platform"
+        },
+        {
+          "tag_line": "Case Management"
+        },
+        {
+          "tag_line": "Data Modelling"
+        },
+        {
+          "tag_line": "Validation"
+        },
+        {
+          "tag_line": "Information Exchange"
+        },
+        {
+          "tag_line": "User Interface"
+        },
+        {
+          "tag_line": "Application Development"
+        },
+        {
+          "tag_line": "Reporting"
+        }
+      ]
+    },
+    {
+      "title": "Message from Developer",
+      "content": [
+        {
+          "tag_line": "Hi, I am a Pega CLSA and adding the details here from my knowledge I have acquired from study and work experience."
+        }
+      ]
+    }
+  ]
+}
