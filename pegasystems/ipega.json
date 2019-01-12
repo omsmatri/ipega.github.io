@@ -67,6 +67,14 @@
   ],
   "tutorials": [
     {
+      "title": "Whats New in Pega 8",
+      "content": [
+        {
+          "tag_line": "Message"
+        }
+      ]
+    },
+    {
       "title": "System Architect-PEGA7.4",
       "content": [
         {
@@ -297,14 +305,6 @@
         },
         {
           "tag_line": "Reporting"
-        }
-      ]
-    },
-    {
-      "title": "Message from Developer",
-      "content": [
-        {
-          "tag_line": "Hi, I am a Pega CLSA and adding the details here from my knowledge I have acquired from study and work experience."
         }
       ]
     }
