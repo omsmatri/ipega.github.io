@@ -3,7 +3,6 @@
     "<p><strong>Objective:</strong> Design and implement a sample application named TalentHunt
 <strong></br>Scenario Details:</strong>
 As part of this application, HR Recruiter tries to find a good candidate for the employer.
-
 Once the candidate is sourced, the profile need to be sent for evaluation. 
 If the evaluation passed or failed, the candidate would be informed suitably through the recruiter team.
 If the evaluation is a pass, hr team should be notified too to schedule interview.
@@ -11,7 +10,6 @@ Based on the interview evaluation, the candidate would be informed.
 If the interview evaluation is good, the onboarding team should be notified also.
 Onboarding team would check the joining date with the candidate provided candidate accepts the offer.
 If candidate is not selected or selected candidate didnt join, talent hunt process would kick in again.
-
 This is more or less high level requirement of Talent hunt process.
 Let's discuss how to design this in pega.
 <strong></br>Design:</strong>
@@ -20,12 +18,9 @@ Decide what would be your cases and data entities, who would be the end user.
 Whats life cycle of cases. How to break them at stages and sub stages.
 Which end users would be accessing the case. What would be their authorisation level.
 You don't have to be adding every minute details but for starting this is enough.
-
 After adding these details, we would see that we may be adding or updating these in future.
-
 By seeing the above scenario, we can think of the following case
 	Hire a Candidate
-
 </br>Stages - *reference
 </br>Create a Req
 	</br>>> Hiring Manager submits Req details 
@@ -37,27 +32,22 @@ By seeing the above scenario, we can think of the following case
 </br>Interview the Candidate ( We may go for a new case for this later )
 	</br>>> Schedule an Interview 
 	</br>>> Technical Round and HR Round (Manage by process)
-Offer a Candidate
+</br>Offer a Candidate
 	</br>>> Negotiate with candidate
 	</br>>> candidate feedback
-Onboarding
+</br>Onboarding
 	</br>>> Intimate the Hiring Department
 	</br>>> Resolve the case
 </br>Alternate stages
 	</br>>> Not Suitable Candidate
-
 </br>Data entities:
 	</br>Profile Data Table - This would store the sourced candidate and their interview status
-
 </br>We have to implement security , configure user interface for the end user.
-
 </br><strong>Implementation:</strong>
 	</br>Use a Data page to fetch data from profile
-
 </br>we need to configure the UI
 	</br>Configuring UI is piece of cake (we are just using the UI to do the basic stuff)
 	</br>We can have dynamic layout and add the text field, dropdown, radio, checkbox etc inside it.
-
 </br>We need to have different access group for different end user
 	</br>Once you open the end user, you can see that they are associated with TalentHunt:Administrators access group.
 	</br>Save this access group as TalentHunt:Manager, TalentHunt:Recruiter, TalentHunt:Candidate access group.
@@ -70,7 +60,6 @@ Onboarding
 	</br>Candidate >> should be having pyCaseWorker portal
 	</br>You can go to access group of individual operator and configure the portal.
 	</br>All these portals are OOTB and we would customize them later point of time.
-
 </br>The basics has been done and we are good to go ahead with the Hire a candidate case.
 </br><strong>Step-1</strong>	Manager logins to the portal and starts this case with the following information
 		</br>Hiring Position
@@ -120,17 +109,14 @@ Onboarding
 </br>----We may want to use external authentication so that any one in organization can use this application.
 </br>----We may want to use mashup so that candidate can use the TalentHunt application without being having an operator id.
 </br>----Substages will be groomed further to include process or smartspaes or calling other cases.
-
 </br><strong>Reference - Stages</strong>
 </br>Stages and substages are presented in this way
 	</br>Stage1
 	</br>>>substage1
 	</br>>>substage2
-
 </br>P.S.: This is a sample application which is designed in a very basic way. I tried to show case how you should start design and implementing things the moment you have some requirement.
 </br>Going forward, I would be making it more scalable, flexible, will use many features of the Pega.
 </br>If you want any improvement upon this submit a feedback by sending a mail to ipega.learning@gmail.com
-
 	"
   ]
 }
