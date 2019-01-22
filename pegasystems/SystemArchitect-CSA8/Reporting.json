@@ -1,5 +1,16 @@
 {
   "details": [
-    "<p><strong>Coming New</strong> Please wait..."
+    "<strong>Reporting</strong>
+Report is a Rule in Pega Application. This rule helps in fetching data from a database table.</br>
+Report can fetch data from blob but it is not best practice.</br>
+Report can fetch data from more than one class. It can do the inner join, left outer join or right outer join with any other class.</br>
+It can do the join with an index rule also.</br>
+Report can group data based on a property too.</br>
+Besides, it can help us to create a summarized report too.</br>
+To avail a summarized report, any of the report column should be group column like count or max</br>
+We can do the function call in a report definition rule too. for e.g. the customer table </br>
+contains the firstname and last name, we can call a function in report definition column to concatenate these two columns.</br>
+
+Report definition rule can be paginated. If datsource contains too much data, we should have paginated reports.</br>"
   ]
 }
