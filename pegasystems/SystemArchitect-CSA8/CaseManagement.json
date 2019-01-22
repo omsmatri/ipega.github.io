@@ -1,5 +1,28 @@
 {
   "details": [
-    "<p><strong>Coming New</strong> Please wait..."
+    "<p><strong>Case Life Cycle</strong></br>I have mentioned a TalentHunt scenario.</br>As per that scenario, the case should deliver a meaningful business outcome.</br> Hire a Candidate does deliver a business outcome so it is a case.</br>
+Overall the life cycle of above case may contain following primary stages </br>
+>>Source the Candidate</br>
+>>Interview the Candidate</br>
+>>OnBoard the Candidate</br>
+
+Stages can be divided based on to whom the part of business process is assigned.</br>
+
+We have to create a case type for this as this business process which would be repeated multiple times.</br>
+
+For the Source the candidate stage, we can have a series of steps like</br>
+>>Search candidates </br>
+>>Upload candidate details</br>
+
+These series of steps is called as a process. For this example, the process can be named as Search Candidate</br>
+The step can be a user action or smart shape or another process too.</br>
+Use noun words, no more than two words which are meaningful to Steps. Step generally use verb+noun words</br>
+
+Normally when <u>Source a candidate</u> step is completed, the execution shifts to next stage. However. if the process/steps in side a stage take a rare path which are handled by Alternate Stage, in this case, it may be Reject Candidate stage.</br>
+Though there are 10 candidates sourced, we have the functionality to process one candidate at a time. If the candidate is rejected, we can change the stage to take the next candidate and start Interview candidate stage. Change stage can be configured from a step.</br>
+One more important thing from business point of view is how to evaluate the case is progressing or not.</br>
+This is determined from <u>Case status</u>. The case status is the primary indicator of progress of a case and gets updated while the case moves through the case life cycle.</br>
+Once you are in the Interview of candidate stage, it has one step where Interview would be scheduled. It would be good to provide extra instrutions on how the interview would be scheduled.</br>
+like the interview time would be scheduled by phone or mail. This instrution would be helpful for the end user on how to act.</br>"
   ]
 }
