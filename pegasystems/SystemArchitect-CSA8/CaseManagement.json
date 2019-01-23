@@ -23,6 +23,80 @@ Though there are 10 candidates sourced, we have the functionality to process one
 One more important thing from business point of view is how to evaluate the case is progressing or not.</br>
 This is determined from <u>Case status</u>. The case status is the primary indicator of progress of a case and gets updated while the case moves through the case life cycle.</br>
 Once you are in the Interview of candidate stage, it has one step where Interview would be scheduled. It would be good to provide extra instrutions on how the interview would be scheduled.</br>
-like the interview time would be scheduled by phone or mail. This instrution would be helpful for the end user on how to act.</br>"
+like the interview time would be scheduled by phone or mail. This instrution would be helpful for the end user on how to act.</br>",
+    "<p>In our Hire a Candidate Case, the case would be initiated by Hiring Manager.</br>
+Hiring Manager need to find a candidate in a time bound scenario.</br>
+This prompts the process to notify appropriate stakeholders (like recruiter, candidate, HR, manager) to take appropriate action in a timely manner.</br>
+This can be achieved by Service Level Agreements. Typically for every assignment a goal, deadline is set.</br>
+This can be set by SLA. Still if the task is not completed as expected in goal and deadline time, there is a Repeat functionality past to deadline.</br>
+All this goal, deadline and repeat functionality are capable of increasing the urgency of case or take some action on the case.</br>
+Like passed deadline, Goal and deadline cannot be repeated.</br>
+
+The urgency generally takes a value between 10 to 100. There are generally two types of urgency associated with case. One is case urgency and the other is assignment urgency.</br>
+Normally when we refer urgency, it is assignment urgency.</br>
+Urgency value helps in assesiing how urgent the case or current assignemnt is.</br>
+
+lets say that the Hire a candidate case should be completed within 5 days.</br>
+So deadline is 5 days and goal would be lets say 4 days. If the case is not resolved within 5 days, passed deadline kicks in and ask the recruiter Manager to have a look on the case.</br>
+
+We need to plan how to divide this 4 days time in to different goal times of different assignemnt (if we do have any in the stages)</br>
+We need to plan how to divide this 5 days time in to different deadline times of different assignemnt (if we do have any in the stages)</br>
+The collect information steps can be configured with Goal and Deadline. However, passed deadline can`t be configured if you select Custom. If you select Use Existing, passed deadline would be applicable.</br>
+
+Pega supports push and pull model of routing. </br>
+If you are a user and done with your current assignemnt, pega system can <b>push</b> a new assignemnt for you.</br>
+If you don`t want system to push an assignemnt for you, you can pull it by doing <b>Get Next Work</b></br>
+This push and pull logic can use some OOTB or custom logic and provide an appropriate assignemnt for to work.</br>
+Get next work generally fetches the assignment having high assignment urgency.</br>
+
+As a case worker, there might be scenarios where the case worker might want to do some actions regardless of case is in any stage or step.</br>
+If user is fine to do this in one screen, it can be handled as optional action. If it is more than one ui required, we should handle it as optional process.</br>
+
+End user performing option process or action may or may not return to the primary path of the case.</br>
+Optional actions can be available through out case lifecycle or in a specific stage too.</br>
+
+If processes can be performed in any order, they can be configured as parallel processes.</br>
+This feature allow a case to advance through multiple paths at same time within a stage.</br>
+Two or more processes can be configured to run in parallel.</br>
+This helps in improving efficiency as active assignment of any process can be performed simulteneously.</br>
+for e.g. in Hire a Candidate case, if candidate accepts the offer, Intimate to manager as well as HR can be done at same time.</br>
+Manager would plan the project work and HR would plan the on boarding work simultaneously.</br>
+
+Routing</br>
+
+There are different stakeholders who might be interested in completing the work on a case.</br>
+For e.g. Hire a Candidate case will be worked by Manager, candidate, Recruiter and HR.</br>
+Sometimes there might be group of users from whom one would be selected based on skill.</br>
+Sometimes, the case might simple be send to a work queue from where some one would pick up a later point of time.</br>
+There are two types of routing work. One is worklist and the other is work queue.</br>
+
+A work queue is a container which holds the assignments routed to it.</br>
+A work list is a container which holds the assignments routed to a particular operator.</br>
+
+While routing, there are options like you want to route this to current operator or any other operator or a work queue.</br>
+Advantage in assigning to a work queue is that any one associated with the work queue can work in in the case.</br>
+An operator contains the following info which helps the operator participating in the push or pull routing process.</br>
+Work group</br>
+Work queue</br>
+Skill</br>
+Calendar</br>
+Scheduled absence</br>
+Organizational structure</br>
+
+Few OOTB routing options are</br>
+Work queue of a work group</br>
+Work list of a specific user</br>
+Current user</br>
+Business logic based on a when condition</br>
+
+Routing can be configured using specialized routers such as skilled group, a work group manager and a party to a correspondence.</br>
+
+Routing to a skilled group - You can use the ToSkilledGroup OOTB router for specific case types.</br>
+for e.g routing to a csr who speaks french in part of a group with a specific skill and can be routed ToSkilledGroup</br>
+</br>
+</br>
+P.S.: If you want any improvement upon this, please submit a feedback by sending a mail to ipega.learning@gmail.com
+
+	"
   ]
 }
