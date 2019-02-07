@@ -1,0 +1,20 @@
+{
+  "tutorials": [
+    {
+      "title": "Whats New in Pega 8",
+      "content": [
+        {
+          "tag_line": "Message"
+        }
+      ]
+    },
+    {
+      "title": "Sample Application Developement",
+      "content": [
+        {
+          "tag_line": "Message"
+        }
+      ]
+    }
+  ]
+}
