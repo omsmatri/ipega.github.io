@@ -1,6 +1,400 @@
 {
   "tutorials": [
     {
+      "title": "Introduction",
+      "content": [
+        {
+          "tag_line": "Syllabus",
+          "url": "https://drive.google.com/file/d/1tTKTC4BKgN7dvhhYitRkeI4weNw1Lzhi/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "IGNOU",
+      "content": [
+        {
+          "tag_line": "John Locke",
+          "url": "https://drive.google.com/file/d/1IWyaO3-n6ogyPolOcB18sKa4s6WUixEF/view?usp=sharing"
+        },
+        {
+          "tag_line": "Jean Jacques Rousseau",
+          "url": "https://drive.google.com/file/d/1CdMYrn-VfV026YuYPiawnSy_iVHNku3D/view?usp=sharing"
+        },
+        {
+          "tag_line": "Edmund Burke",
+          "url": "https://drive.google.com/file/d/1O9jPppDnMPylk7xReIQLO7718dzdTMXn/view?usp=sharing"
+        },
+        {
+          "tag_line": "Immanuel Kant",
+          "url": "https://drive.google.com/file/d/1ntmID9UDCUqVdXvACDZ-2cxBInp2a3o5/view?usp=sharing"
+        },
+        {
+          "tag_line": "Jeremy Bentham",
+          "url": "https://drive.google.com/file/d/1HjfZPsqOxtw-oGrE3-CsT_-D2SpgaXG_/view?usp=sharing"
+        },
+        {
+          "tag_line": "Alexis de Tocqueville",
+          "url": "https://drive.google.com/file/d/12X1us6D00LM-lJa5BZupspCOOAHom3d1/view?usp=sharing"
+        },
+        {
+          "tag_line": "J.S. Mill",
+          "url": "https://drive.google.com/file/d/1evUCjA2aLRsUN4wq3IA3LtZtDxth2oTq/view?usp=sharing"
+        },
+        {
+          "tag_line": "George Wilhelm Friedrich Hegel",
+          "url": "https://drive.google.com/file/d/1fkpvKZzi7QVlUvHF0UzPavYBLLKyk_86/view?usp=sharing"
+        },
+        {
+          "tag_line": "Karl Marx",
+          "url": "https://drive.google.com/file/d/1mbi2vcmSlJ-fQQ1VcP3LxAvu4gbcwjFC/view?usp=sharing"
+        },
+        {
+          "tag_line": "Pre-modern Socio-Religious Political Thought in India - The diverse Strands",
+          "url": "https://drive.google.com/file/d/1IqyyxLi-uSG_bDam7eO_LsjfEJ9NdB7B/view?usp=sharing"
+        },
+        {
+          "tag_line": "Modern Indian Political Thought - Issues and Approaches",
+          "url": "https://drive.google.com/file/d/1OrbxeLE4Hh_QdocrmNeSHfssAwVdx6tP/view?usp=sharing"
+        },
+        {
+          "tag_line": "Salient Features of Modern Indian Political Thought",
+          "url": "https://drive.google.com/file/d/1royeZ_glXiuG8LcPXSmbX_r_weSwQY9B/view?usp=sharing"
+        },
+        {
+          "tag_line": "Raja Ram Mohan Roy",
+          "url": "https://drive.google.com/file/d/1Wh2029-WqCWHcU8qajfuzKi2uX8oBirt/view?usp=sharing"
+        },
+        {
+          "tag_line": "Justice M.G. Ranade",
+          "url": "https://drive.google.com/file/d/1BEY5MvRQdiDzN888PngKK9R4XrGul5uB/view?usp=sharing"
+        },
+        {
+          "tag_line": "Hinduism - Swami Vivekananda and Sri Aurobindo Ghosh",
+          "url": "https://drive.google.com/file/d/1zKEIlUr7U40yhVrJfTaeHsgVmLOuUFiu/view?usp=sharing"
+        },
+        {
+          "tag_line": "Hindutva - VD Savarkar and MS Golwalkar",
+          "url": "https://drive.google.com/file/d/1fJMHOU2bHjE4NyY4b_wQXKajXajN0WXo/view?usp=sharing"
+        },
+        {
+          "tag_line": "B.G Tilak",
+          "url": "https://drive.google.com/file/d/1-6zG1EJk7CpIXoVaRFvOpFJNYBzrwZ2a/view?usp=sharing"
+        },
+        {
+          "tag_line": "Sri Aurobindo",
+          "url": "https://drive.google.com/file/d/1MbQyCeRE3L_UmR-G3aOOdR7_0GMWLM6N/view?usp=sharing"
+        },
+        {
+          "tag_line": "Mahatma Gandhi",
+          "url": "https://drive.google.com/file/d/12B8Uu1xWb0y3e5murvzDMCoIZ9HR7Ehn/view?usp=sharing"
+        },
+        {
+          "tag_line": "Jawaharlal Nehru",
+          "url": "https://drive.google.com/file/d/12z5yRFZaHJ2cz7WO35qVWQTgkqMJ4QVv/view?usp=sharing"
+        },
+        {
+          "tag_line": "Bhimrao Ambedkar",
+          "url": "https://drive.google.com/file/d/1opUOwjZ5JKebm2nh5RT2ziOS2djlPwuC/view?usp=sharing"
+        },
+        {
+          "tag_line": "Rabindranath Tagore",
+          "url": "https://drive.google.com/file/d/1GHqA0fPkznHpqFTXp8zIaQVP8mbtUE8U/view?usp=sharing"
+        },
+        {
+          "tag_line": "Communist Thought - MN Roy and EMS Namboodiripad",
+          "url": "https://drive.google.com/file/d/1D2iBRgR_o0UK533XJbd7R1JpMsaKol-P/view?usp=sharing"
+        },
+        {
+          "tag_line": "Socialist Thought - Rammanohar Lohia and Jayaprakash Narayan",
+          "url": "https://drive.google.com/file/d/1-ezoeHeuTZsVSFb6e27qohmxJZGtmAIT/view?usp=sharing"
+        },
+        {
+          "tag_line": "Swami Dayanand Saraswati  Swami Vivekananda and VD Savarkar",
+          "url": "https://drive.google.com/file/d/1UoGeM44LwrzFHsnPbSwiMNrlioUYV1G1/view?usp=sharing"
+        },
+        {
+          "tag_line": "Subhash Chandra Bose",
+          "url": "https://drive.google.com/file/d/1NPEMq7_XtI-ABTjZAA9luaV4x3PgUAmX/view?usp=sharing"
+        },
+        {
+          "tag_line": "Political Thoughts of JP and Narendra Dev",
+          "url": "https://drive.google.com/file/d/1xn6klk-gHt9SuiuhwfMDTRojtXmmwr13/view?usp=sharing"
+        },
+        {
+          "tag_line": "Rammanohar Lohia",
+          "url": "https://drive.google.com/file/d/1HH0mhGLdnH2hmAer5dMAt8yEsUFwlEcx/view?usp=sharing"
+        },
+        {
+          "tag_line": "M.N Roy - Marxism and Radical Humanism",
+          "url": "https://drive.google.com/file/d/1yRYqjDRTSJOkoS3WjU_MAjtK4mHCWwy_/view?usp=sharing"
+        },
+        {
+          "tag_line": "Contemporary Marxist Theory",
+          "url": "https://drive.google.com/file/d/1_DFaSDXNqMK7UcclWxig4lVmySX_BiNN/view?usp=sharing"
+        },
+        {
+          "tag_line": "Ethical Concerns of Public Administration",
+          "url": "https://drive.google.com/file/d/1hSvD7WK7i1K6OLF3iSJQRyRq60LBfIig/view?usp=sharing"
+        },
+        {
+          "tag_line": "What is Sustainable Development?",
+          "url": "https://drive.google.com/file/d/1sT8SF9nMXIpAnIgFcr0bmEeqMzuIeO_m/view?usp=sharing"
+        },
+        {
+          "tag_line": "Parameters of Sustainable Development",
+          "url": "https://drive.google.com/file/d/1svevzXkOXxPjbcnLgTt3AVfxxyFKxpjF/view?usp=sharing"
+        },
+        {
+          "tag_line": "Approaches to the study of Sustainable Development",
+          "url": "https://drive.google.com/file/d/184weHjH02CNIi5G6Yd0wdkQ-gcuLm5b-/view?usp=sharing"
+        },
+        {
+          "tag_line": "Issues and Challenges",
+          "url": "https://drive.google.com/file/d/1Ppf4406gUR2cY-LcVMACDOVnG4R_3Vph/view?usp=sharing"
+        },
+        {
+          "tag_line": "Natural Resource Exploitation",
+          "url": "https://drive.google.com/file/d/1C1Mv47NuVqReh-fZ0cNZRRWnSdE5D53R/view?usp=sharing"
+        },
+        {
+          "tag_line": "Patterns of Industrialisation",
+          "url": "https://drive.google.com/file/d/18t0gSlukt4wvYW88l9nXwUcHH638pf_1/view?usp=sharing"
+        },
+        {
+          "tag_line": "Global and Regional Dimensions",
+          "url": "https://drive.google.com/file/d/1XSTlzCrux6M0ztxvOHmirmrY-_jPz_fB/view?usp=sharing"
+        },
+        {
+          "tag_line": "State Initiatives",
+          "url": "https://drive.google.com/file/d/1nWgSF4AqxMWOlqoOZrCBjPibIHB9UG7v/view?usp=sharing"
+        },
+        {
+          "tag_line": "Regional Initiatives",
+          "url": "https://drive.google.com/file/d/16YK0XK7sSJMeBdCeajzrZD1rm2Wf2Eap/view?usp=sharing"
+        },
+        {
+          "tag_line": "Global Initiatives",
+          "url": "https://drive.google.com/file/d/1W4XDpIvdVdvLpB2C-4HQF-Bdg0iK8LY8/view?usp=sharing"
+        },
+        {
+          "tag_line": "Community Knowledge",
+          "url": "https://drive.google.com/file/d/1oUH-UMkoSHXSMqQlbE5W4TpeJImsYR7J/view?usp=sharing"
+        },
+        {
+          "tag_line": "Cooperation and Partnership",
+          "url": "https://drive.google.com/file/d/1yOawvkd-1hOOhgKn7bOdsezy7MpK1XRD/view?usp=sharing"
+        },
+        {
+          "tag_line": "Environmental Dimensions of Globalisation",
+          "url": "https://drive.google.com/file/d/1m1udfap3b_gQWgBN7JuLyn1okCLDxEQL/view?usp=sharing"
+        },
+        {
+          "tag_line": "Environmental Calamities",
+          "url": "https://drive.google.com/file/d/1ME-Cv7RokxDneIrltJZ7FL_TozixBbxS/view?usp=sharing"
+        },
+        {
+          "tag_line": "Man-made Disasters",
+          "url": "https://drive.google.com/file/d/1IOZ0vcQhFzg0ZGcf4HHP2x4gPHCTnXwZ/view?usp=sharing"
+        },
+        {
+          "tag_line": "MNCs TNCs and Developing Countries",
+          "url": "https://drive.google.com/file/d/1R4uQ2g4heGgAPetfMH-Ek42mWscC_BmQ/view?usp=sharing"
+        },
+        {
+          "tag_line": "International Summits and Declarations",
+          "url": "https://drive.google.com/file/d/1JicrJSAJxDYt8bKq3h2qFat9QSW_5c5V/view?usp=sharing"
+        },
+        {
+          "tag_line": "International Environmental Laws and Agreements",
+          "url": "https://drive.google.com/file/d/1Vw-gX3Dgl_kCxdc4C0lS38eQ8DYgxuRO/view?usp=sharing"
+        },
+        {
+          "tag_line": "Role of the United Nations Agencies",
+          "url": "https://drive.google.com/file/d/1dIxD7_i4QD25v-IpvYS4W8zTQRL35sjy/view?usp=sharing"
+        },
+        {
+          "tag_line": "Environment in Multilateral Perspectives",
+          "url": "https://drive.google.com/file/d/1GP6GA5_K-2tDXzAxn_GMUTA6ptXv0S9E/view?usp=sharing"
+        },
+        {
+          "tag_line": "South Asian Response to Environmental Concerns",
+          "url": "https://drive.google.com/file/d/1deGJGIM9I5gfSAFdvwgprOC5LXuoCIMx/view?usp=sharing"
+        },
+        {
+          "tag_line": "Non-Governmental Agencies Initiatives",
+          "url": "https://drive.google.com/file/d/1LFk0jcUkA-VQe_zgWkLM6flnCGhhj6Aq/view?usp=sharing"
+        },
+        {
+          "tag_line": "Introduction to the East Asian Region",
+          "url": "https://drive.google.com/file/d/18G9deG2crNs__w5mXh15BRa5QTOCo1B6/view?usp=sharing"
+        },
+        {
+          "tag_line": "Introduction to the Southeast Asian Region",
+          "url": "https://drive.google.com/file/d/190oqgqH_LBqRfKe8mBMnBfhH1hI2Ece_/view?usp=sharing"
+        },
+        {
+          "tag_line": "Indians in Southeast Asia",
+          "url": "https://drive.google.com/file/d/11wSxuDUC6uTL13SLHqb9Xma7z2-ohtRM/view?usp=sharing"
+        },
+        {
+          "tag_line": "Chinese in Southeast Asia",
+          "url": "https://drive.google.com/file/d/1Jh9KvepAveTvg56p-nUC1ncVL56hV0xe/view?usp=sharing"
+        },
+        {
+          "tag_line": "Historical Context - Nationalist Upsurge and Rise of Capitalism",
+          "url": "https://drive.google.com/file/d/1kJKmGCaIBKNVZwXFGkzF8zPNZ_Hw64IQ/view?usp=sharing"
+        },
+        {
+          "tag_line": "Politics - Structure and Processes",
+          "url": "https://drive.google.com/file/d/1or7pdzqd0Gx9Bxd5tC9JopuF5E1Hfhnw/view?usp=sharing"
+        },
+        {
+          "tag_line": "Foreign Policy",
+          "url": "https://drive.google.com/file/d/1Dr9j8XmSS78_gpPvBSS_qJL9Nw_ln_yH/view?usp=sharing"
+        },
+        {
+          "tag_line": "Foreign Policy of Japan",
+          "url": "https://drive.google.com/file/d/1gGB45U8N442v3hmp87bzQfXMmC4yco81/view?usp=sharing"
+        },
+        {
+          "tag_line": "Evolution of Modern Korea",
+          "url": "https://drive.google.com/file/d/14atjNxfsGnQNUuH6p4acBKIGix2IcxLU/view?usp=sharing"
+        },
+        {
+          "tag_line": "Patterns of Political and Economic Development",
+          "url": "https://drive.google.com/file/d/19nQs6ID3SqEpX5Cgxo7QyMThkugZCjco/view?usp=sharing"
+        },
+        {
+          "tag_line": "Indonesia",
+          "url": "https://drive.google.com/file/d/1ufsm8qqBRsK89wox2wxqcBzvk2h3ncjB/view?usp=sharing"
+        },
+        {
+          "tag_line": "Thailand",
+          "url": "https://drive.google.com/file/d/1XiOOWLX0GahoSrrnd3OHFy9NvP6Y9h02/view?usp=sharing"
+        },
+        {
+          "tag_line": "Burma",
+          "url": "https://drive.google.com/file/d/1yvSSim15-huz29KmMssYmIVsyr64XJm9/view?usp=sharing"
+        },
+        {
+          "tag_line": "Vietnam",
+          "url": "https://drive.google.com/file/d/1sPh9Hiuc-BNW0aMotexUfM8XY39Y978f/view?usp=sharing"
+        },
+        {
+          "tag_line": "Patterns of Economic Development in Southeast Asia",
+          "url": "https://drive.google.com/file/d/1Ma_S5FhXkt9kOp2-RJ6LDpSfW_mif-aN/view?usp=sharing"
+        },
+        {
+          "tag_line": "SAARC",
+          "url": "https://drive.google.com/file/d/15_N_VfuXdWlp4Uo_U-8gn2R5Fg78Jqx2/view?usp=sharing"
+        },
+        {
+          "tag_line": "Dynamics of South Asia Security",
+          "url": "https://drive.google.com/file/d/15hLHSi6usCSpnnzeYJsO3wVJLKNRbjPs/view?usp=sharing"
+        },
+        {
+          "tag_line": "Ethnicity and Nation Building",
+          "url": "https://drive.google.com/file/d/1Qp46ydAyWwNYrJDkhj7nPYT_dDrk4uFI/view?usp=sharing"
+        },
+        {
+          "tag_line": "Dynamics of State and CivilSociety in East and Southeast Asia",
+          "url": "https://drive.google.com/file/d/1lEIzzc8IS63e-9nkg-lL9a3squoIpjnE/view?usp=sharing"
+        },
+        {
+          "tag_line": "Nuclear Issues",
+          "url": "https://drive.google.com/file/d/1Eux-QbMSbgcAa10oi9uuSpK7PT68p_P0/view?usp=sharing"
+        },
+        {
+          "tag_line": "Regional Cooperation with Special Reference to ASEAN",
+          "url": "https://drive.google.com/file/d/1RT_V7VrthVBryKIdA6hVFemT8LevXeAF/view?usp=sharing"
+        },
+        {
+          "tag_line": "Resolution and Management of Conflicts",
+          "url": "https://drive.google.com/file/d/1zjzbKpS7Nm0asB6tMO8CejJXqIARFVn6/view?usp=sharing"
+        },
+        {
+          "tag_line": "Unity and Diversity",
+          "url": "https://drive.google.com/file/d/1htxZbQnvOGyHknKXf7X1JopMrTOuq9zt/view?usp=sharing"
+        },
+        {
+          "tag_line": "Rural Social Structure",
+          "url": "https://drive.google.com/file/d/1k3TlIeV9TUJwDPYEjFTuCpKBgBOR2dB4/view?usp=sharing""
+        },
+        {
+          "tag_line": "Patterns of Urbanisation",
+          "url": "https://drive.google.com/file/d/1BJFwI_WrEFeFQ3BSapXC0e4lFpPzx2ob/view?usp=sharing"
+        },
+        {
+          "tag_line": "Urban Social Structure",
+          "url": "https://drive.google.com/file/d/1tXDGc9oRuakHpnWXcKcxWrgr-7fLdKFj/view?usp=sharing"
+        },
+        {
+          "tag_line": "Rural and Urban Poverty",
+          "url": "https://drive.google.com/file/d/17moXgUM-qkTWA_V3T5rjBS211Xy43q8E/view?usp=sharing"
+        },
+        {
+          "tag_line": "Hindu Social Organisation",
+          "url": "https://drive.google.com/file/d/1gt2XTObILOSvDmTWfd4TyQEOnZwrcHve/view?usp=sharing"
+        },
+        {
+          "tag_line": "Muslim Social Organisation",
+          "url": "https://drive.google.com/file/d/151R_mAbaOJ8ALIqErWxbFz0pC-abeZLJ/view?usp=sharing"
+        },
+        {
+          "tag_line": "Christian Social Organisation",
+          "url": "https://drive.google.com/file/d/1jq03kMBIOXK25meiyXvssIfFFo8LUR_6/view?usp=sharing"
+        },
+        {
+          "tag_line": "Sikh Social Organisation",
+          "url": "https://drive.google.com/file/d/1HvZzyYmLL_7KDbswGSc6nxJgdfjdDvjk/view?usp=sharing"
+        },
+        {
+          "tag_line": "The Scheduled Castes",
+          "url": "https://drive.google.com/file/d/1ZL7NcoxxeNVNYbm9X4_G8Zl1d7dEAkYO/view?usp=sharing"
+        },
+        {
+          "tag_line": "Religion in Tribal Societies",
+          "url": "https://drive.google.com/file/d/1LsnIP3nbzO1usK_s4hl2vgmxx4K7qyLb/view?usp=sharing"
+        },
+        {
+          "tag_line": "Status of Women in India",
+          "url": "https://drive.google.com/file/d/15SS9botXZVw3iNh0c2PZ4UEl_Eje_4gr/view?usp=sharing"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        },
+        {
+          "tag_line": "message",
+          "url": "url"
+        }
+      ]
+    },
+    {
       "title": "Economic Surveys",
       "content": [
         {
