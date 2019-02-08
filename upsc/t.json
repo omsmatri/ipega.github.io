@@ -1,11 +1,23 @@
 {
   "tutorials": [
     {
-      "title": "Whats New in Pega 8",
+      "title": "Economic Surveys",
       "content": [
         {
-          "tag_line": "Message",
+          "tag_line": "Economic Survey 2017-18 Summary (English)",
           "url": "https://drive.google.com/file/d/1X16wABtdken5mHVcQfhrF59Z7c0Exvrf/view?usp=sharing"
+        },
+        {
+          "tag_line": "Economic Survey 2017-18 Summary (Hindi)",
+          "url": "https://drive.google.com/file/d/1eyT2edGTM1mVVunB1FkEqUkBfMwAnaXx/view?usp=sharing"
+        },
+        {
+          "tag_line": "Economic Survey 2016-17 Summary",
+          "url": "https://drive.google.com/file/d/1dbnyQmj5c7nZgtKIe4DcJ3o7Y9RA1ORk/view?usp=sharing"
+        },
+        {
+          "tag_line": "Economic Survey 2015-16 Summary",
+          "url": "https://drive.google.com/file/d/1N5xAmiGoLVn-KP7HGEvIb9yXiifX87gR/view?usp=sharing"
         }
       ]
     },
