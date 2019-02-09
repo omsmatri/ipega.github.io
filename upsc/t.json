@@ -5932,6 +5932,22 @@
       "title": "IGNOU",
       "content": [
         {
+          "tag": "Significance of Western Political Thought",
+          "key": "1mL2Q8OwCHY-Gl8yG0J9g2DzG26f6rSI7"
+        },
+        {
+          "tag": "Plato",
+          "key": "1aRvkunD6LL_TCuyqQHTubzm1xe44mNfD"
+        },
+        {
+          "tag": "Aristotle",
+          "key": "1VsGN7247cWDOV2_y1NVaOCQXnhVry2oJ"
+        },
+        {
+          "tag": "Niccolo Machiavelli",
+          "key": "1Sa2FfgYa7kDLtNzTZ1_qCf4pR55X1cU1"
+        },
+        {
           "tag": "John Locke",
           "key": "1IWyaO3-n6ogyPolOcB18sKa4s6WUixEF"
         },
@@ -6667,27 +6683,6 @@
         {
           "tag": "Economic Survey 2015-16 Summary",
           "key": "1N5xAmiGoLVn-KP7HGEvIb9yXiifX87gR"
-        }
-      ]
-    },
-    {
-      "title": "IGNOU",
-      "content": [
-        {
-          "tag": "Significance of Western Political Thought",
-          "key": "1mL2Q8OwCHY-Gl8yG0J9g2DzG26f6rSI7"
-        },
-        {
-          "tag": "Plato",
-          "key": "1aRvkunD6LL_TCuyqQHTubzm1xe44mNfD"
-        },
-        {
-          "tag": "Aristotle",
-          "key": "1VsGN7247cWDOV2_y1NVaOCQXnhVry2oJ"
-        },
-        {
-          "tag": "Niccolo Machiavelli",
-          "key": "1Sa2FfgYa7kDLtNzTZ1_qCf4pR55X1cU1"
         }
       ]
     },
