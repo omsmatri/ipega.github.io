@@ -1,4 +1,174 @@
 {
+  "quizzes": [
+    {
+      "title": "gk_countries_cities_",
+      "content": [
+        {
+          "tag_line": "Countries Cities"
+        }
+      ]
+    },
+    {
+      "title": "gk_famous_people",
+      "content": [
+        {
+          "tag_line": "GK Famous People"
+        }
+      ]
+    },
+    {
+      "title": "gk_inventions_",
+      "content": [
+        {
+          "tag_line": "GK Inventions"
+        }
+      ]
+    },
+    {
+      "title": "gk_marinelife_",
+      "content": [
+        {
+          "tag_line": "GK Marinelife"
+        }
+      ]
+    },
+    {
+      "title": "history",
+      "content": [
+        {
+          "tag_line": "history"
+        }
+      ]
+    },
+    {
+      "title": "humanbody",
+      "content": [
+        {
+          "tag_line": "humanbody"
+        }
+      ]
+    },
+    {
+      "title": "ind_geography",
+      "content": [
+        {
+          "tag_line": "Ind Geography"
+        }
+      ]
+    },
+    {
+      "title": "maths_test_",
+      "content": [
+        {
+          "tag_line": "Maths Test"
+        }
+      ]
+    },
+    {
+      "title": "medicine_",
+      "content": [
+        {
+          "tag_line": "Medicine"
+        }
+      ]
+    },
+    {
+      "title": "physics",
+      "content": [
+        {
+          "tag_line": "Physics"
+        }
+      ]
+    },
+    {
+      "title": "polity",
+      "content": [
+        {
+          "tag_line": "polity"
+        }
+      ]
+    },
+    {
+      "title": "question",
+      "content": [
+        {
+          "tag_line": "question"
+        }
+      ]
+    },
+    {
+      "title": "rapidtest",
+      "content": [
+        {
+          "tag_line": "rapidtest"
+        }
+      ]
+    },
+    {
+      "title": "religion_",
+      "content": [
+        {
+          "tag_line": "Religion"
+        }
+      ]
+    },
+    {
+      "title": "rrb_history",
+      "content": [
+        {
+          "tag_line": "rrb History"
+        }
+      ]
+    },
+    {
+      "title": "suraecocom",
+      "content": [
+        {
+          "tag_line": "Sura Ecocom"
+        }
+      ]
+    },
+    {
+      "title": "surafreedom",
+      "content": [
+        {
+          "tag_line": "sura Freedom"
+        }
+      ]
+    },
+    {
+      "title": "surahistory",
+      "content": [
+        {
+          "tag_line": "sura History"
+        }
+      ]
+    },
+    {
+      "title": "united_nations",
+      "content": [
+        {
+          "tag_line": "United Nations"
+        }
+      ]
+    },
+    {
+      "title": "world_geography_",
+      "content": [
+        {
+          "tag_line": "World Geography"
+        }
+      ]
+    },
+    {
+      "title": "zoology",
+      "content": [
+        {
+          "tag_line": "zoology"
+        }
+      ]
+    }
+  ],
   "tutorials": [
     {
       "title": "Introduction",
