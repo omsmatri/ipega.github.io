@@ -1,7 +1,8 @@
 {
   "quizzes": [
     {
-      "title": "gk_countries_cities_",
+      "url": "gk_countries_cities_",
+      "title": "Countries Cities",
       "content": [
         {
           "tag_line": "Countries Cities"
@@ -9,7 +10,8 @@
       ]
     },
     {
-      "title": "gk_famous_people",
+      "url": "gk_famous_people",
+      "title":"GK Famous People",
       "content": [
         {
           "tag_line": "GK Famous People"
@@ -17,7 +19,8 @@
       ]
     },
     {
-      "title": "gk_inventions_",
+      "url": "gk_inventions_",
+      "title": "GK Inventions",
       "content": [
         {
           "tag_line": "GK Inventions"
@@ -25,7 +28,8 @@
       ]
     },
     {
-      "title": "gk_marinelife_",
+      "url": "gk_marinelife_",
+      "title": "GK Marinelife",
       "content": [
         {
           "tag_line": "GK Marinelife"
@@ -33,6 +37,7 @@
       ]
     },
     {
+      "url": "history",
       "title": "history",
       "content": [
         {
@@ -41,7 +46,8 @@
       ]
     },
     {
-      "title": "humanbody",
+      "url": "humanbody",
+      "title": "Human Body",
       "content": [
         {
           "tag_line": "humanbody"
@@ -49,7 +55,8 @@
       ]
     },
     {
-      "title": "ind_geography",
+      "url": "ind_geography",
+      "title": "India Geography",
       "content": [
         {
           "tag_line": "Ind Geography"
@@ -57,7 +64,8 @@
       ]
     },
     {
-      "title": "maths_test_",
+      "url": "maths_test_",
+      "title": "Maths Test",
       "content": [
         {
           "tag_line": "Maths Test"
@@ -65,7 +73,8 @@
       ]
     },
     {
-      "title": "medicine_",
+      "url": "medicine_",
+      "title": "Medicine,
       "content": [
         {
           "tag_line": "Medicine"
@@ -73,6 +82,7 @@
       ]
     },
     {
+      "url": "physics",
       "title": "physics",
       "content": [
         {
@@ -81,6 +91,7 @@
       ]
     },
     {
+      "url": "polity",
       "title": "polity",
       "content": [
         {
@@ -89,6 +100,7 @@
       ]
     },
     {
+      "url": "question",
       "title": "question",
       "content": [
         {
@@ -97,6 +109,7 @@
       ]
     },
     {
+      "url": "rapidtest",
       "title": "rapidtest",
       "content": [
         {
@@ -105,7 +118,8 @@
       ]
     },
     {
-      "title": "religion_",
+      "url": "religion_",
+      "title": "Religion",
       "content": [
         {
           "tag_line": "Religion"
@@ -113,7 +127,8 @@
       ]
     },
     {
-      "title": "rrb_history",
+      "url": "rrb_history",
+      "title": "rrb History",
       "content": [
         {
           "tag_line": "rrb History"
@@ -121,7 +136,8 @@
       ]
     },
     {
-      "title": "suraecocom",
+      "url": "suraecocom",
+      "title": "Sura Ecocom",
       "content": [
         {
           "tag_line": "Sura Ecocom"
@@ -129,7 +145,8 @@
       ]
     },
     {
-      "title": "surafreedom",
+      "url": "surafreedom",
+      "title": "sura Freedom",
       "content": [
         {
           "tag_line": "sura Freedom"
@@ -137,7 +154,8 @@
       ]
     },
     {
-      "title": "surahistory",
+      "url": "surahistory",
+      "title": "sura History",
       "content": [
         {
           "tag_line": "sura History"
@@ -145,7 +163,8 @@
       ]
     },
     {
-      "title": "united_nations",
+      "url": "united_nations",
+      "title": "United Nations",
       "content": [
         {
           "tag_line": "United Nations"
@@ -153,7 +172,8 @@
       ]
     },
     {
-      "title": "world_geography_",
+      "url": "world_geography_",
+      "title": "World Geography",
       "content": [
         {
           "tag_line": "World Geography"
@@ -161,6 +181,7 @@
       ]
     },
     {
+      "url": "zoology",
       "title": "zoology",
       "content": [
         {
