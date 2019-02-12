@@ -7,6 +7,6 @@
 	{ "topicName": "UserInterface","topicDescription":"User Interface","totalQuestions":"68","topicStatus":"inactive"},
 	{ "topicName": "Reporting","topicDescription":"Reporting","totalQuestions":"77","topicStatus":"inactive"},
 	{ "topicName": "ApplicationDevelopment","topicDescription":"Application Development","totalQuestions":"52","topicStatus":"inactive"},
-	{ "topicName": "PegaCSA8","topicDescription":"Certified System Architect","totalQuestions":"56","topicStatus":"active"}
+	{ "topicName": "PegaCSA","topicDescription":"Certified System Architect","totalQuestions":"56","topicStatus":"active"}
   ]
 }
