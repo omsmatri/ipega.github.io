@@ -1,12 +1,6 @@
 {
   "results": [
-  { "topicName": "CaseManagement","topicDescription":"Case Management","totalQuestions":"155","topicStatus":"inactive"},
-  { "topicName": "DataModelling","topicDescription":"Data Modelling","totalQuestions":"66","topicStatus":"inactive"},
-	{ "topicName": "Validation","topicDescription":"Validation","totalQuestions":"67","topicStatus":"inactive"},
-	{ "topicName": "InformationExchange","topicDescription":"Information Exchange","totalQuestions":"223","topicStatus":"inactive"},
-	{ "topicName": "UserInterface","topicDescription":"User Interface","totalQuestions":"68","topicStatus":"inactive"},
-	{ "topicName": "Reporting","topicDescription":"Reporting","totalQuestions":"77","topicStatus":"inactive"},
-	{ "topicName": "ApplicationDevelopment","topicDescription":"Application Development","totalQuestions":"52","topicStatus":"inactive"},
-	{ "topicName": "CSA8","topicDescription":"Certified System Architect","totalQuestions":"56","topicStatus":"active"}
+	{ "topicName": "CSA8","topicDescription":"Certified System Architect","totalQuestions":"56","topicStatus":"active"},
+	{ "topicName": "CSA7374","topicDescription":"Validation","totalQuestions":"155","topicStatus":"active"},
   ]
 }
