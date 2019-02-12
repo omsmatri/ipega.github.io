@@ -1,6 +1,6 @@
 {
   "results": [
-	{ "topicName": "CSA8","topicDescription":"Certified System Architect","totalQuestions":"56","topicStatus":"active"},
-	{ "topicName": "CSA7374","topicDescription":"Validation","totalQuestions":"155","topicStatus":"active"}
+	{ "topicName": "CSA8","topicDescription":"Certified System Architect 8","totalQuestions":"56","topicStatus":"active"},
+	{ "topicName": "CSA74","topicDescription":"Certified System Architect 73 And 74","totalQuestions":"155","topicStatus":"active"}
   ]
 }
