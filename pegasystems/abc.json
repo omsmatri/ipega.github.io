@@ -1,0 +1,41 @@
+{
+  "tutorials": [
+    {
+      "title": "System Architect-CSA8",
+      "content": [
+        {
+          "tag_line": "Pega Platform",
+		  "url": "CRSA8"
+        },
+        {
+          "tag_line": "Case Management",
+		  "url": "CUIS71"
+        },
+        {
+          "tag_line": "Data Modelling",
+		  "url": "CPDC74"
+        },
+        {
+          "tag_line": "Validation",
+		  "url": "CPMC74"
+        },
+        {
+          "tag_line": "Information Exchange",
+		  "url": "PCDS8"
+        },
+        {
+          "tag_line": "User Interface",
+		  "url": "CSSA74"
+        },
+        {
+          "tag_line": "Application Development",
+		  "url": "CSA8"
+        },
+        {
+          "tag_line": "Reporting",
+		  "url": "CSA74"
+        }
+      ]
+    }
+  ]
+}
